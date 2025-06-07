@@ -1,0 +1,10 @@
+project/
+├── app.py
+├── crop_recommendation.py  ← core logic here
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── utils/
+│   └── weather.py
+└── requirements.txt
